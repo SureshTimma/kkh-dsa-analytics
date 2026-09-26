@@ -38,4 +38,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# local credentials / notes
+login creds.txt
+login.txt
+
 next-env.d.ts
